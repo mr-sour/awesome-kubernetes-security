@@ -24,6 +24,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
+- [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - Store your secrets next to your configuration in git using one way encryption
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
 - [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) - Use SQL to query your Kubernetes resources
 - [steampipe-kubernetes-compliance](https://github.com/turbot/steampipe-mod-kubernetes-compliance) - Kubernetes compliance scanning tool for CIS, NSA & CISA Cybersecurity technical report for Kubernetes hardening.
